@@ -3,7 +3,7 @@
 ### 💻 Environment
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://archlinux.org)
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
-### I don't use Windows, nor will I ever.
+### I don't use Windows or iOS, nor will I ever.
 ### I hate Microsoft.
 
 ## 🌱 Programming languages
