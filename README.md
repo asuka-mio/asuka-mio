@@ -14,4 +14,4 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 
-### I don't know shit about JavaScript, HTML and CSS.
+### I don't know shit about JavaScript, HTML or CSS.
