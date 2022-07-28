@@ -16,4 +16,10 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 
+## 🌱 Languages that I would never use
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![C#](https://img.shields.io/badge/-C%23-008b45?style=flat-square&logo=csharp&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=fff)
+
 ### I don't know shit about JavaScript, HTML or CSS.
