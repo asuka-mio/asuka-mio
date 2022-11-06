@@ -22,5 +22,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![C#](https://img.shields.io/badge/-C%23-008b45?style=flat-square&logo=csharp&logoColor=fff)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=fff)
+![Dart](https://img.shields.io/badge/Dart-06cfcf.svg?style=flat-square&logo=dart&logoColor=fff)
 
 ### I don't know shit about JavaScript, HTML or CSS.
