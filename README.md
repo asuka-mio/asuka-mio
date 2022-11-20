@@ -5,7 +5,8 @@
 ## Minecraft Tek mods player  
 ### 💻 Environment
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://archlinux.org)
-![Android Snow Cone 12.1](https://img.shields.io/badge/Android%20Tiramisu%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android Snow Cone 12.1](https://img.shields.io/badge/Android%20Tiramisu%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)  
+### [Material 3](https://m3.material.io/) is why I start playing with Android.
 ### I don't use Windows or iOS, nor will I ever.
 ### I hate Microsoft.
 
