@@ -8,7 +8,7 @@
 [![KDE](https://img.shields.io/badge/KDE-%2300ADD8.svg?style=flat-square&logo=kde&logoColor=fff)](https://kde.org/)
 [![Android Tiramisu 13](https://img.shields.io/badge/Android%20Tiramisu%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 ### [Material 3](https://m3.material.io/) is all of why I start playing with Android.
-### I don't use Windows or iOS, nor will I ever.
+### I don't use Windows or iOS, nor will I ever, Windows is the dumbest operating system in the universe!
 ### I hate Microsoft.
 
 ## 🌱 Programming languages
