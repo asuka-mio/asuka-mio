@@ -17,7 +17,8 @@
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)  
+Currently learning play with [Julia](https://julialang.org/), [Clojure](https://clojure.org/), [Rust](https://www.rust-lang.org/) and [Scala](https://www.scala-lang.org/)
 
 ## 🌱 Languages that I would never use
 
